@@ -1,3 +1,13 @@
 [
-  Session id here
+  2022-08-22T15:33:49.677541+00:00 app[worker.1]: 0|. | doc
+2022-08-22T15:33:49.996869+00:00 app[worker.1]: 0|. | wa
+2022-08-22T15:33:50.313299+00:00 app[worker.1]: 0|. | find
+2022-08-22T15:33:50.636420+00:00 app[worker.1]: 0|. | tg
+2022-08-22T15:33:50.957071+00:00 app[worker.1]: 0|. | emoji
+2022-08-22T15:33:51.275150+00:00 app[worker.1]: 0|. | External Plugins Installed
+2022-08-22T15:33:51.275393+00:00 app[worker.1]: 0|. | fetching web version
+2022-08-22T15:33:51.308808+00:00 app[worker.1]: 0|. | Connecting to Whatsapp web 2,2230,15
+2022-08-22T15:33:51.309648+00:00 app[worker.1]: 0|. | Connecting to whatsapp
+2022-08-22T15:33:51.813992+00:00 app[worker.1]: 0|. | connected
+
 ]
